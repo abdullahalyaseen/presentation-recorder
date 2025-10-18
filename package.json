@@ -1,5 +1,6 @@
 {
   "name": "ppt-recorder",
+  "homepage":"https://abdullahalyaseen.github.io/presentation-recorder/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
